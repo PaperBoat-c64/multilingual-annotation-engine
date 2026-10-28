@@ -1,0 +1,43 @@
+{
+    "name": "default",
+    "description": "Default 30-color palette optimized for 15-25 unique semantic units per document. Balanced saturation, good readability on white backgrounds.",
+    "colors": [
+        "#E74C3C",
+        "#2ECC71",
+        "#3498DB",
+        "#F39C12",
+        "#9B59B6",
+        "#1ABC9C",
+        "#E67E22",
+        "#2980B9",
+        "#C0392B",
+        "#27AE60",
+        "#8E44AD",
+        "#D35400",
+        "#16A085",
+        "#2C3E50",
+        "#F1C40F",
+        "#7F8C8D",
+        "#E91E63",
+        "#00BCD4",
+        "#FF5722",
+        "#795548",
+        "#607D8B",
+        "#4CAF50",
+        "#FFC107",
+        "#2196F3",
+        "#9C27B0",
+        "#FF9800",
+        "#009688",
+        "#673AB7",
+        "#CDDC39",
+        "#03A9F4"
+    ],
+    "metadata": {
+        "colorblind_safe": false,
+        "min_contrast_ratio": 3.2,
+        "max_colors": 30,
+        "background": "#FFFFFF",
+        "optimized_for": "general purpose, 15-25 unique units"
+    }
+}

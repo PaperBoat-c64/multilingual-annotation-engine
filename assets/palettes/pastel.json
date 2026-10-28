@@ -1,0 +1,43 @@
+{
+    "name": "pastel",
+    "description": "30-color pastel palette with soft, muted tones. Optimized for extended screen reading with reduced visual fatigue.",
+    "colors": [
+        "#F8B4B4",
+        "#B4E6B4",
+        "#B4C8F8",
+        "#F8E4B4",
+        "#D8B4F8",
+        "#B4F0E4",
+        "#F8D0B4",
+        "#B4D4F8",
+        "#F0B4B4",
+        "#B4F0B4",
+        "#D0B4F0",
+        "#F8C8B4",
+        "#B4E8D8",
+        "#D4D8E0",
+        "#F8F0B4",
+        "#E0D8D0",
+        "#F8B4D0",
+        "#B4E8F8",
+        "#F8CCB4",
+        "#D0C8C0",
+        "#C8D0D8",
+        "#B4F0C8",
+        "#F8E8B4",
+        "#B4D8F8",
+        "#D8B4E8",
+        "#F8D4B4",
+        "#B4E8CC",
+        "#C8B4E8",
+        "#E8F0B4",
+        "#B4E4F8"
+    ],
+    "metadata": {
+        "colorblind_safe": false,
+        "min_contrast_ratio": 2.5,
+        "max_colors": 30,
+        "background": "#FFFFFF",
+        "optimized_for": "extended screen reading, children's materials, low visual fatigue"
+    }
+}

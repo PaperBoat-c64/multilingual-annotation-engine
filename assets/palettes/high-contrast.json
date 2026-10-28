@@ -1,0 +1,43 @@
+{
+    "name": "high-contrast",
+    "description": "30-color high-contrast palette with maximum perceptual distance. Darker tones, higher saturation. Better for print (CMYK conversion) and colorblind accessibility.",
+    "colors": [
+        "#000000",
+        "#CC0000",
+        "#006400",
+        "#0000CC",
+        "#8B4513",
+        "#CC0066",
+        "#006666",
+        "#CC5500",
+        "#4B0082",
+        "#990000",
+        "#004D00",
+        "#000080",
+        "#663300",
+        "#990066",
+        "#003333",
+        "#994400",
+        "#330066",
+        "#800000",
+        "#003300",
+        "#000099",
+        "#4D2600",
+        "#80004D",
+        "#004040",
+        "#803300",
+        "#400066",
+        "#660000",
+        "#1B5E20",
+        "#1A237E",
+        "#BF360C",
+        "#4A148C"
+    ],
+    "metadata": {
+        "colorblind_safe": true,
+        "min_contrast_ratio": 7.0,
+        "max_colors": 30,
+        "background": "#FFFFFF",
+        "optimized_for": "print, colorblind accessibility, large documents (50+ units)"
+    }
+}
